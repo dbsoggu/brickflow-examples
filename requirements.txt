@@ -1,0 +1,1 @@
+git+https://github.com/Nike-Inc/brickflow.git@multi-project-conf
